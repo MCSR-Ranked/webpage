@@ -21,7 +21,7 @@ export function SiteFooter() {
         </div>
         <Separator className="block md:hidden" />
         <div className="flex flex-col items-center gap-4 px-8 md:flex-row md:px-0">
-          Contact us: mcsrranked@gmail.com
+          Contact Us: mcsrranked@gmail.com
         </div>
         <Separator className="block md:hidden" />
         <div className="flex flex-col items-center gap-4 px-8 md:flex-row md:gap-5 md:px-0">
@@ -66,7 +66,7 @@ export function SiteFooter() {
       <div className="container flex flex-col items-center justify-between gap-4 md:h-20 md:flex-row">
         <div className="flex flex-col items-center gap-4 px-8 md:flex-row md:gap-2 md:px-0"></div>
         <div className="flex flex-col items-center gap-4 px-8 md:flex-row md:px-0">
-          © 2022-23 MCSR Ranked. THIS IS NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
+          © 2022-24 MCSR Ranked. THIS IS NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
         </div>
         <div className="flex flex-col items-center gap-4 px-8 md:flex-row md:gap-2 md:px-0"></div>
       </div>
