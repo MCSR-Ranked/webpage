@@ -11,7 +11,7 @@ export function SiteFooter() {
         <div className="flex flex-col items-center gap-4 px-8 md:flex-row md:gap-2 md:px-0">
           Feedback?{" "}
           <Link
-            href={siteConfig.links.github}
+            href={siteConfig.links.discord}
             target="_blank"
             rel="noreferrer"
             className="hover:text-green-400"
